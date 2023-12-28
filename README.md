@@ -1,5 +1,5 @@
-# Based Chromium
-A hardened, portable version of Ungoogled Chromium.
+![Based Chromium Banner](https://github.com/HandsomestWyter/Based-Chromium/blob/main/Assets/Based%20Chormium%20Banner%20Design.png)
+<p align="center"> A hardened, portable version of Ungoogled Chromium. </p>
 
 # What is this?
 I literally just got a download from [Portapps' Ungoogled Chromium](https://portapps.io/app/ungoogled-chromium-portable/), and hardened it for my personal use. I strongly advise that you don't use this. It's just for, and I made this repostitory just to have for archive. The reason that I created this repository is just to have an easily deployable browser at the ready. Another reason that I am working on this is because I used to use Thorium, and ever since the furry incident...I decided just to use something from a more reputable developer.
