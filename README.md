@@ -21,10 +21,12 @@ Another thing that you need to consider is that I will not be keeping this up-to
   - NordVPN Exntension (this is my VPN of choice)
   - Tabliss for new Tab
   - Chromium Webstore Extension
-- Hardened Standard User Profiles
+- Hardened Standard User Profiles > This is a work in progress, so I haven't implemnted them just yet.
 - **StartPage** as default search engine
 - Useful bookmarks
   - Normie Bookmarks
   - Args Bookmarks
   - OSINT Framework
 
+# IMPORTANT NOTE-TO-SELF
+MAKE SURE TO UNARCHIVE THE CHROME.DLL.RAR ARCHIVE TO BE ABLE TO USE THIS SOFTWARE!

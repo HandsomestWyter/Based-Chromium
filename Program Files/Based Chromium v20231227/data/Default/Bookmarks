@@ -1,0 +1,91 @@
+{
+   "checksum": "4bdd7771f8538482164af92bbe779520",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13348178045353166",
+            "date_last_used": "0",
+            "guid": "65a6568a-bc0d-4220-a1d1-d35801d86d8b",
+            "id": "746",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "type": "url",
+            "url": "http://startpage.com/"
+         }, {
+            "date_added": "13348177942265951",
+            "date_last_used": "0",
+            "guid": "bb351118-bda3-4dff-a17a-60f5a033fb6f",
+            "id": "742",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13348177988403768",
+            "date_last_used": "0",
+            "guid": "10e0d64a-a9c1-45c1-b526-188b1213e513",
+            "id": "743",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "type": "url",
+            "url": "https://www.reddit.com/?rdt=55011"
+         }, {
+            "date_added": "13348177996055800",
+            "date_last_used": "0",
+            "guid": "a9196683-b1e1-4c00-8b90-fd0e17a4ecf0",
+            "id": "744",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "type": "url",
+            "url": "https://twitter.com/"
+         }, {
+            "date_added": "13348178021617331",
+            "date_last_used": "0",
+            "guid": "b602473a-e002-410f-aea6-18303649cc3a",
+            "id": "745",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "type": "url",
+            "url": "https://mega.io/"
+         } ],
+         "date_added": "13347435256728990",
+         "date_last_used": "0",
+         "date_modified": "13348179227919155",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13347435256728991",
+         "date_last_used": "0",
+         "date_modified": "13348177942265951",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13347435256728992",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

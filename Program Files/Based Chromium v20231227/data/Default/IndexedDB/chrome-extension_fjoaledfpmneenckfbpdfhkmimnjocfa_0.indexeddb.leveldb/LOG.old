@@ -1,0 +1,17 @@
+2023/12/27-23:03:15.873 208c Reusing MANIFEST J:\Program Files\ungoogled-chromium-portable\data\Default\IndexedDB\chrome-extension_fjoaledfpmneenckfbpdfhkmimnjocfa_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/27-23:03:15.880 208c Recovering log #4
+2023/12/27-23:03:15.881 208c Reusing old log J:\Program Files\ungoogled-chromium-portable\data\Default\IndexedDB\chrome-extension_fjoaledfpmneenckfbpdfhkmimnjocfa_0.indexeddb.leveldb/000004.log 
+2023/12/27-23:03:15.928 cb0 Level-0 table #8: started
+2023/12/27-23:03:15.953 cb0 Level-0 table #8: 8994 bytes OK
+2023/12/27-23:03:15.974 cb0 Delete type=0 #4
+2023/12/27-23:03:15.977 cb0 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/12/27-23:03:15.984 cb0 Level-0 table #10: started
+2023/12/27-23:03:16.013 cb0 Level-0 table #10: 1475 bytes OK
+2023/12/27-23:03:16.035 cb0 Delete type=0 #7
+2023/12/27-23:03:16.044 cb0 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 422 : 1
+2023/12/27-23:03:16.044 cb0 Compacting 1@0 + 1@1 files
+2023/12/27-23:03:16.056 cb0 Generated table #11@0: 133 keys, 4234 bytes
+2023/12/27-23:03:16.056 cb0 Compacted 1@0 + 1@1 files => 4234 bytes
+2023/12/27-23:03:16.062 cb0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/12/27-23:03:16.062 cb0 Delete type=2 #10
+2023/12/27-23:03:16.065 14b4 Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 422 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,284 @@
+Mon, 18 Dec 2023 22:34:04 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:118 > --------
+Mon, 18 Dec 2023 22:34:04 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:119 > Operating System: Windows 10.0.19045
+Mon, 18 Dec 2023 22:34:04 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:120 > Starting Ungoogled Chromium 115.0.5790.131-16 (portapps 3.8.0)...
+Mon, 18 Dec 2023 22:34:04 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:121 > Release date: 2023/07/22 09:46:19
+Mon, 18 Dec 2023 22:34:04 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:122 > Publisher: CrazyMax (https://github.com/portapps/ungoogled-chromium-portable)
+Mon, 18 Dec 2023 22:34:04 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:123 > Root path: J:\Program Files\ungoogled-chromium-portable
+Mon, 18 Dec 2023 22:34:04 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:127 > Configuration:
+common:
+    disable_log: false
+    args: []
+    env: {}
+    app_path: ""
+app:
+    cleanup: false
+
+Mon, 18 Dec 2023 22:34:04 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:168 > Process: J:\Program Files\ungoogled-chromium-portable\app\chrome.exe
+Mon, 18 Dec 2023 22:34:04 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:169 > Args (config file): 
+Mon, 18 Dec 2023 22:34:04 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:170 > Args (cmd line): 
+Mon, 18 Dec 2023 22:34:04 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:171 > Args (hardcoded): --user-data-dir=J:\Program Files\ungoogled-chromium-portable\data --no-default-browser-check --disable-logging --disable-breakpad --disable-machine-id --disable-encryption-win
+Mon, 18 Dec 2023 22:34:04 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:172 > Working dir: J:\Program Files\ungoogled-chromium-portable\app
+Mon, 18 Dec 2023 22:34:04 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:173 > App path: J:\Program Files\ungoogled-chromium-portable\app
+Mon, 18 Dec 2023 22:34:04 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:174 > Data path: J:\Program Files\ungoogled-chromium-portable\data
+Mon, 18 Dec 2023 22:34:04 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:175 > Previous path: 
+Mon, 18 Dec 2023 22:34:04 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:181 > Launching Ungoogled Chromium
+Mon, 18 Dec 2023 22:34:04 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:191 > Exec J:\Program Files\ungoogled-chromium-portable\app\chrome.exe --user-data-dir=J:\Program Files\ungoogled-chromium-portable\data --no-default-browser-check --disable-logging --disable-breakpad --disable-machine-id --disable-encryption-win
+[4520:11680:1218/223405.361:ERROR:chrome_browser_cloud_management_controller.cc(162)] Cloud management controller initialization aborted as CBCM is not enabled.
+[4520:11680:1218/223410.791:ERROR:device_event_log_impl.cc(222)] [22:34:10.791] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+[4520:11680:1218/225205.175:ERROR:device_event_log_impl.cc(222)] [22:52:05.175] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[4520:11680:1218/225323.909:ERROR:CONSOLE(4)] "Uncaught Error: Assertion failed: Could not find value for pdfOcrEnabled", source: chrome://resources/js/assert_ts.js (4)
+[4520:11680:1218/225323.936:ERROR:CONSOLE(1)] "Uncaught TypeError: Cannot read properties of undefined (reading 'push')", source: chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js (1)
+[4520:20372:1218/225342.540:ERROR:ev_root_ca_metadata.cc(161)] Failed to decode OID: 0
+Mon, 18 Dec 2023 22:54:16 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:212 > Closing Ungoogled Chromium
+Mon, 18 Dec 2023 23:31:32 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:118 > --------
+Mon, 18 Dec 2023 23:31:32 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:119 > Operating System: Windows 10.0.19045
+Mon, 18 Dec 2023 23:31:32 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:120 > Starting Ungoogled Chromium 115.0.5790.131-16 (portapps 3.8.0)...
+Mon, 18 Dec 2023 23:31:32 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:121 > Release date: 2023/07/22 09:46:19
+Mon, 18 Dec 2023 23:31:32 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:122 > Publisher: CrazyMax (https://github.com/portapps/ungoogled-chromium-portable)
+Mon, 18 Dec 2023 23:31:32 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:123 > Root path: J:\Program Files\ungoogled-chromium-portable
+Mon, 18 Dec 2023 23:31:32 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:127 > Configuration:
+common:
+    disable_log: false
+    args: []
+    env: {}
+    app_path: ""
+app:
+    cleanup: false
+
+Mon, 18 Dec 2023 23:31:32 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:168 > Process: J:\Program Files\ungoogled-chromium-portable\app\chrome.exe
+Mon, 18 Dec 2023 23:31:32 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:169 > Args (config file): 
+Mon, 18 Dec 2023 23:31:32 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:170 > Args (cmd line): 
+Mon, 18 Dec 2023 23:31:32 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:171 > Args (hardcoded): --user-data-dir=J:\Program Files\ungoogled-chromium-portable\data --no-default-browser-check --disable-logging --disable-breakpad --disable-machine-id --disable-encryption-win
+Mon, 18 Dec 2023 23:31:32 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:172 > Working dir: J:\Program Files\ungoogled-chromium-portable\app
+Mon, 18 Dec 2023 23:31:32 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:173 > App path: J:\Program Files\ungoogled-chromium-portable\app
+Mon, 18 Dec 2023 23:31:32 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:174 > Data path: J:\Program Files\ungoogled-chromium-portable\data
+Mon, 18 Dec 2023 23:31:32 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:175 > Previous path: J:\Program Files\ungoogled-chromium-portable
+Mon, 18 Dec 2023 23:31:32 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:181 > Launching Ungoogled Chromium
+Mon, 18 Dec 2023 23:31:32 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:191 > Exec J:\Program Files\ungoogled-chromium-portable\app\chrome.exe --user-data-dir=J:\Program Files\ungoogled-chromium-portable\data --no-default-browser-check --disable-logging --disable-breakpad --disable-machine-id --disable-encryption-win
+[20720:11924:1218/233132.938:ERROR:chrome_browser_cloud_management_controller.cc(162)] Cloud management controller initialization aborted as CBCM is not enabled.
+[20720:11924:1218/233133.067:ERROR:chrome_web_ui_controller_factory.cc(578)] Requested load of chrome://newtab/ for incorrect profile type.
+[20720:11924:1218/233133.587:ERROR:gpu_disk_cache.cc(216)] Failed to create blob cache entry: -2
+[20720:10688:1218/233133.632:ERROR:ev_root_ca_metadata.cc(161)] Failed to decode OID: 0
+[20720:11924:1218/233135.370:ERROR:device_event_log_impl.cc(222)] [23:31:35.370] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+[20720:11924:1218/233230.825:ERROR:CONSOLE(4)] "Uncaught Error: Assertion failed: Could not find value for pdfOcrEnabled", source: chrome://resources/js/assert_ts.js (4)
+[20720:11924:1218/233230.854:ERROR:CONSOLE(1)] "Uncaught TypeError: Cannot read properties of undefined (reading 'push')", source: chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js (1)
+Mon, 18 Dec 2023 23:33:10 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:212 > Closing Ungoogled Chromium
+Tue, 19 Dec 2023 21:58:31 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:118 > --------
+Tue, 19 Dec 2023 21:58:31 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:119 > Operating System: Windows 10.0.19045
+Tue, 19 Dec 2023 21:58:31 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:120 > Starting Ungoogled Chromium 115.0.5790.131-16 (portapps 3.8.0)...
+Tue, 19 Dec 2023 21:58:31 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:121 > Release date: 2023/07/22 09:46:19
+Tue, 19 Dec 2023 21:58:31 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:122 > Publisher: CrazyMax (https://github.com/portapps/ungoogled-chromium-portable)
+Tue, 19 Dec 2023 21:58:31 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:123 > Root path: J:\Program Files\ungoogled-chromium-portable
+Tue, 19 Dec 2023 21:58:31 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:127 > Configuration:
+common:
+    disable_log: false
+    args: []
+    env: {}
+    app_path: ""
+app:
+    cleanup: false
+
+Tue, 19 Dec 2023 21:58:31 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:168 > Process: J:\Program Files\ungoogled-chromium-portable\app\chrome.exe
+Tue, 19 Dec 2023 21:58:31 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:169 > Args (config file): 
+Tue, 19 Dec 2023 21:58:31 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:170 > Args (cmd line): 
+Tue, 19 Dec 2023 21:58:31 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:171 > Args (hardcoded): --user-data-dir=J:\Program Files\ungoogled-chromium-portable\data --no-default-browser-check --disable-logging --disable-breakpad --disable-machine-id --disable-encryption-win
+Tue, 19 Dec 2023 21:58:31 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:172 > Working dir: J:\Program Files\ungoogled-chromium-portable\app
+Tue, 19 Dec 2023 21:58:31 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:173 > App path: J:\Program Files\ungoogled-chromium-portable\app
+Tue, 19 Dec 2023 21:58:31 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:174 > Data path: J:\Program Files\ungoogled-chromium-portable\data
+Tue, 19 Dec 2023 21:58:31 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:175 > Previous path: J:\Program Files\ungoogled-chromium-portable
+Tue, 19 Dec 2023 21:58:31 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:181 > Launching Ungoogled Chromium
+Tue, 19 Dec 2023 21:58:31 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:191 > Exec J:\Program Files\ungoogled-chromium-portable\app\chrome.exe --user-data-dir=J:\Program Files\ungoogled-chromium-portable\data --no-default-browser-check --disable-logging --disable-breakpad --disable-machine-id --disable-encryption-win
+[13976:17752:1219/215833.596:ERROR:chrome_browser_cloud_management_controller.cc(162)] Cloud management controller initialization aborted as CBCM is not enabled.
+[13976:17752:1219/215833.945:ERROR:chrome_web_ui_controller_factory.cc(578)] Requested load of chrome://newtab/ for incorrect profile type.
+[13976:4056:1219/215836.052:ERROR:ev_root_ca_metadata.cc(161)] Failed to decode OID: 0
+[13976:17752:1219/215836.603:ERROR:device_event_log_impl.cc(222)] [21:58:36.603] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Tue, 19 Dec 2023 21:59:20 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:212 > Closing Ungoogled Chromium
+Fri, 22 Dec 2023 09:54:32 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:118 > --------
+Fri, 22 Dec 2023 09:54:32 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:119 > Operating System: Windows 10.0.19045
+Fri, 22 Dec 2023 09:54:32 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:120 > Starting Ungoogled Chromium 115.0.5790.131-16 (portapps 3.8.0)...
+Fri, 22 Dec 2023 09:54:32 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:121 > Release date: 2023/07/22 09:46:19
+Fri, 22 Dec 2023 09:54:32 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:122 > Publisher: CrazyMax (https://github.com/portapps/ungoogled-chromium-portable)
+Fri, 22 Dec 2023 09:54:32 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:123 > Root path: J:\Program Files\ungoogled-chromium-portable
+Fri, 22 Dec 2023 09:54:32 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:127 > Configuration:
+common:
+    disable_log: false
+    args: []
+    env: {}
+    app_path: ""
+app:
+    cleanup: false
+
+Fri, 22 Dec 2023 09:54:32 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:168 > Process: J:\Program Files\ungoogled-chromium-portable\app\chrome.exe
+Fri, 22 Dec 2023 09:54:32 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:169 > Args (config file): 
+Fri, 22 Dec 2023 09:54:32 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:170 > Args (cmd line): 
+Fri, 22 Dec 2023 09:54:32 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:171 > Args (hardcoded): --user-data-dir=J:\Program Files\ungoogled-chromium-portable\data --no-default-browser-check --disable-logging --disable-breakpad --disable-machine-id --disable-encryption-win
+Fri, 22 Dec 2023 09:54:32 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:172 > Working dir: J:\Program Files\ungoogled-chromium-portable\app
+Fri, 22 Dec 2023 09:54:32 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:173 > App path: J:\Program Files\ungoogled-chromium-portable\app
+Fri, 22 Dec 2023 09:54:32 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:174 > Data path: J:\Program Files\ungoogled-chromium-portable\data
+Fri, 22 Dec 2023 09:54:32 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:175 > Previous path: J:\Program Files\ungoogled-chromium-portable
+Fri, 22 Dec 2023 09:54:32 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:181 > Launching Ungoogled Chromium
+Fri, 22 Dec 2023 09:54:32 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:191 > Exec J:\Program Files\ungoogled-chromium-portable\app\chrome.exe --user-data-dir=J:\Program Files\ungoogled-chromium-portable\data --no-default-browser-check --disable-logging --disable-breakpad --disable-machine-id --disable-encryption-win
+[6784:19460:1222/095434.265:ERROR:chrome_browser_cloud_management_controller.cc(162)] Cloud management controller initialization aborted as CBCM is not enabled.
+[6784:19460:1222/095434.563:ERROR:chrome_web_ui_controller_factory.cc(578)] Requested load of chrome://newtab/ for incorrect profile type.
+[6784:19460:1222/095436.976:ERROR:device_event_log_impl.cc(222)] [09:54:36.976] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+[6784:11064:1222/095437.385:ERROR:ev_root_ca_metadata.cc(161)] Failed to decode OID: 0
+Fri, 22 Dec 2023 09:54:49 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:212 > Closing Ungoogled Chromium
+Wed, 27 Dec 2023 00:23:48 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:118 > --------
+Wed, 27 Dec 2023 00:23:48 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:119 > Operating System: Windows 10.0.19045
+Wed, 27 Dec 2023 00:23:48 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:120 > Starting Ungoogled Chromium 115.0.5790.131-16 (portapps 3.8.0)...
+Wed, 27 Dec 2023 00:23:48 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:121 > Release date: 2023/07/22 09:46:19
+Wed, 27 Dec 2023 00:23:48 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:122 > Publisher: CrazyMax (https://github.com/portapps/ungoogled-chromium-portable)
+Wed, 27 Dec 2023 00:23:48 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:123 > Root path: J:\Program Files\ungoogled-chromium-portable
+Wed, 27 Dec 2023 00:23:48 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:127 > Configuration:
+common:
+    disable_log: false
+    args: []
+    env: {}
+    app_path: ""
+app:
+    cleanup: false
+
+Wed, 27 Dec 2023 00:23:48 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:168 > Process: J:\Program Files\ungoogled-chromium-portable\app\chrome.exe
+Wed, 27 Dec 2023 00:23:48 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:169 > Args (config file): 
+Wed, 27 Dec 2023 00:23:48 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:170 > Args (cmd line): 
+Wed, 27 Dec 2023 00:23:48 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:171 > Args (hardcoded): --user-data-dir=J:\Program Files\ungoogled-chromium-portable\data --no-default-browser-check --disable-logging --disable-breakpad --disable-machine-id --disable-encryption-win
+Wed, 27 Dec 2023 00:23:48 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:172 > Working dir: J:\Program Files\ungoogled-chromium-portable\app
+Wed, 27 Dec 2023 00:23:48 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:173 > App path: J:\Program Files\ungoogled-chromium-portable\app
+Wed, 27 Dec 2023 00:23:48 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:174 > Data path: J:\Program Files\ungoogled-chromium-portable\data
+Wed, 27 Dec 2023 00:23:48 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:175 > Previous path: J:\Program Files\ungoogled-chromium-portable
+Wed, 27 Dec 2023 00:23:48 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:181 > Launching Ungoogled Chromium
+Wed, 27 Dec 2023 00:23:48 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:191 > Exec J:\Program Files\ungoogled-chromium-portable\app\chrome.exe --user-data-dir=J:\Program Files\ungoogled-chromium-portable\data --no-default-browser-check --disable-logging --disable-breakpad --disable-machine-id --disable-encryption-win
+[10560:18872:1227/002350.573:ERROR:chrome_browser_cloud_management_controller.cc(162)] Cloud management controller initialization aborted as CBCM is not enabled.
+[10560:18872:1227/002350.891:ERROR:chrome_web_ui_controller_factory.cc(578)] Requested load of chrome://newtab/ for incorrect profile type.
+[10560:12644:1227/002352.826:ERROR:ev_root_ca_metadata.cc(161)] Failed to decode OID: 0
+[10560:18872:1227/002354.936:ERROR:device_event_log_impl.cc(222)] [00:23:54.936] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Wed, 27 Dec 2023 00:23:58 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:212 > Closing Ungoogled Chromium
+Wed, 27 Dec 2023 13:08:04 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:118 > --------
+Wed, 27 Dec 2023 13:08:04 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:119 > Operating System: Windows 10.0.19045
+Wed, 27 Dec 2023 13:08:04 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:120 > Starting Ungoogled Chromium 115.0.5790.131-16 (portapps 3.8.0)...
+Wed, 27 Dec 2023 13:08:04 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:121 > Release date: 2023/07/22 09:46:19
+Wed, 27 Dec 2023 13:08:04 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:122 > Publisher: CrazyMax (https://github.com/portapps/ungoogled-chromium-portable)
+Wed, 27 Dec 2023 13:08:04 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:123 > Root path: J:\Program Files\ungoogled-chromium-portable
+Wed, 27 Dec 2023 13:08:04 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:127 > Configuration:
+common:
+    disable_log: false
+    args: []
+    env: {}
+    app_path: ""
+app:
+    cleanup: false
+
+Wed, 27 Dec 2023 13:08:04 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:168 > Process: J:\Program Files\ungoogled-chromium-portable\app\chrome.exe
+Wed, 27 Dec 2023 13:08:04 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:169 > Args (config file): 
+Wed, 27 Dec 2023 13:08:04 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:170 > Args (cmd line): 
+Wed, 27 Dec 2023 13:08:04 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:171 > Args (hardcoded): --user-data-dir=J:\Program Files\ungoogled-chromium-portable\data --no-default-browser-check --disable-logging --disable-breakpad --disable-machine-id --disable-encryption-win
+Wed, 27 Dec 2023 13:08:04 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:172 > Working dir: J:\Program Files\ungoogled-chromium-portable\app
+Wed, 27 Dec 2023 13:08:04 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:173 > App path: J:\Program Files\ungoogled-chromium-portable\app
+Wed, 27 Dec 2023 13:08:04 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:174 > Data path: J:\Program Files\ungoogled-chromium-portable\data
+Wed, 27 Dec 2023 13:08:04 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:175 > Previous path: J:\Program Files\ungoogled-chromium-portable
+Wed, 27 Dec 2023 13:08:04 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:181 > Launching Ungoogled Chromium
+Wed, 27 Dec 2023 13:08:04 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:191 > Exec J:\Program Files\ungoogled-chromium-portable\app\chrome.exe --user-data-dir=J:\Program Files\ungoogled-chromium-portable\data --no-default-browser-check --disable-logging --disable-breakpad --disable-machine-id --disable-encryption-win
+[15832:6200:1227/130806.224:ERROR:chrome_browser_cloud_management_controller.cc(162)] Cloud management controller initialization aborted as CBCM is not enabled.
+[15832:6200:1227/130806.538:ERROR:chrome_web_ui_controller_factory.cc(578)] Requested load of chrome://newtab/ for incorrect profile type.
+[15832:9076:1227/130808.341:ERROR:ev_root_ca_metadata.cc(161)] Failed to decode OID: 0
+[15832:6200:1227/130810.670:ERROR:device_event_log_impl.cc(222)] [13:08:10.669] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+[15832:6200:1227/130823.775:ERROR:chrome_web_ui_controller_factory.cc(578)] Requested load of chrome://newtab/ for incorrect profile type.
+[15832:6200:1227/130834.012:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+[15832:6200:1227/131210.523:ERROR:chrome_web_ui_controller_factory.cc(578)] Requested load of chrome://newtab/ for incorrect profile type.
+[15832:6200:1227/131241.777:ERROR:chrome_web_ui_controller_factory.cc(578)] Requested load of chrome://newtab/ for incorrect profile type.
+[15832:6200:1227/131246.185:ERROR:chrome_web_ui_controller_factory.cc(578)] Requested load of chrome://newtab/ for incorrect profile type.
+[15832:6200:1227/131337.031:ERROR:chrome_web_ui_controller_factory.cc(578)] Requested load of chrome://newtab/ for incorrect profile type.
+[15832:6200:1227/131726.919:ERROR:chrome_web_ui_controller_factory.cc(578)] Requested load of chrome://newtab/ for incorrect profile type.
+[15832:6200:1227/131759.764:ERROR:chrome_web_ui_controller_factory.cc(578)] Requested load of chrome://newtab/ for incorrect profile type.
+[15832:6200:1227/131809.399:ERROR:CONSOLE(4)] "Uncaught Error: Assertion failed: Could not find value for pdfOcrEnabled", source: chrome://resources/js/assert_ts.js (4)
+[15832:6200:1227/131809.414:ERROR:CONSOLE(1)] "Uncaught TypeError: Cannot read properties of undefined (reading 'push')", source: chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js (1)
+[15832:6200:1227/132120.761:ERROR:chrome_web_ui_controller_factory.cc(578)] Requested load of chrome://newtab/ for incorrect profile type.
+[15832:6200:1227/132125.346:ERROR:CONSOLE(4)] "Uncaught Error: Assertion failed: Could not find value for pdfOcrEnabled", source: chrome://resources/js/assert_ts.js (4)
+[15832:6200:1227/132125.372:ERROR:CONSOLE(1)] "Uncaught TypeError: Cannot read properties of undefined (reading 'push')", source: chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js (1)
+[15832:6200:1227/132219.702:ERROR:chrome_web_ui_controller_factory.cc(578)] Requested load of chrome://newtab/ for incorrect profile type.
+[15832:6200:1227/132431.549:ERROR:chrome_web_ui_controller_factory.cc(578)] Requested load of chrome://newtab/ for incorrect profile type.
+[15832:6200:1227/132507.239:ERROR:chrome_web_ui_controller_factory.cc(578)] Requested load of chrome://newtab/ for incorrect profile type.
+[15832:6200:1227/132530.962:ERROR:chrome_web_ui_controller_factory.cc(578)] Requested load of chrome://newtab/ for incorrect profile type.
+[15832:6200:1227/132549.882:ERROR:chrome_web_ui_controller_factory.cc(578)] Requested load of chrome://newtab/ for incorrect profile type.
+[15832:6200:1227/132620.472:ERROR:chrome_web_ui_controller_factory.cc(578)] Requested load of chrome://newtab/ for incorrect profile type.
+[15832:6200:1227/132714.541:ERROR:chrome_web_ui_controller_factory.cc(578)] Requested load of chrome://newtab/ for incorrect profile type.
+[15832:6200:1227/132735.364:ERROR:chrome_web_ui_controller_factory.cc(578)] Requested load of chrome://newtab/ for incorrect profile type.
+[15832:6200:1227/133037.143:ERROR:chrome_web_ui_controller_factory.cc(578)] Requested load of chrome://newtab/ for incorrect profile type.
+[15832:6200:1227/133145.170:ERROR:chrome_web_ui_controller_factory.cc(578)] Requested load of chrome://newtab/ for incorrect profile type.
+[15832:6200:1227/133151.457:ERROR:chrome_web_ui_controller_factory.cc(578)] Requested load of chrome://newtab/ for incorrect profile type.
+[15832:6200:1227/133202.562:ERROR:chrome_web_ui_controller_factory.cc(578)] Requested load of chrome://newtab/ for incorrect profile type.
+[15832:6200:1227/133308.733:ERROR:chrome_web_ui_controller_factory.cc(578)] Requested load of chrome://newtab/ for incorrect profile type.
+[15832:6200:1227/133343.724:ERROR:chrome_web_ui_controller_factory.cc(578)] Requested load of chrome://newtab/ for incorrect profile type.
+[15832:6200:1227/133345.338:ERROR:chrome_web_ui_controller_factory.cc(578)] Requested load of chrome://newtab/ for incorrect profile type.
+[15832:6200:1227/133644.801:ERROR:chrome_web_ui_controller_factory.cc(578)] Requested load of chrome://newtab/ for incorrect profile type.
+[15832:6200:1227/133806.556:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+[15832:6200:1227/133955.460:ERROR:chrome_web_ui_controller_factory.cc(578)] Requested load of chrome://newtab/ for incorrect profile type.
+[15832:6200:1227/134614.597:ERROR:chrome_web_ui_controller_factory.cc(578)] Requested load of chrome://newtab/ for incorrect profile type.
+[15832:6200:1227/134615.853:ERROR:chrome_web_ui_controller_factory.cc(578)] Requested load of chrome://newtab/ for incorrect profile type.
+[15832:6200:1227/134822.158:ERROR:CONSOLE(4)] "Uncaught Error: Assertion failed: Could not find value for pdfOcrEnabled", source: chrome://resources/js/assert_ts.js (4)
+[15832:6200:1227/134822.183:ERROR:CONSOLE(1)] "Uncaught TypeError: Cannot read properties of undefined (reading 'push')", source: chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js (1)
+[15832:6200:1227/135046.367:ERROR:chrome_web_ui_controller_factory.cc(578)] Requested load of chrome://newtab/ for incorrect profile type.
+Wed, 27 Dec 2023 13:54:36 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:212 > Closing Ungoogled Chromium
+Wed, 27 Dec 2023 23:03:14 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:118 > --------
+Wed, 27 Dec 2023 23:03:14 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:119 > Operating System: Windows 10.0.19045
+Wed, 27 Dec 2023 23:03:14 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:120 > Starting Ungoogled Chromium 115.0.5790.131-16 (portapps 3.8.0)...
+Wed, 27 Dec 2023 23:03:14 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:121 > Release date: 2023/07/22 09:46:19
+Wed, 27 Dec 2023 23:03:14 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:122 > Publisher: CrazyMax (https://github.com/portapps/ungoogled-chromium-portable)
+Wed, 27 Dec 2023 23:03:14 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:123 > Root path: J:\Program Files\ungoogled-chromium-portable
+Wed, 27 Dec 2023 23:03:14 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:127 > Configuration:
+common:
+    disable_log: false
+    args: []
+    env: {}
+    app_path: ""
+app:
+    cleanup: false
+
+Wed, 27 Dec 2023 23:03:14 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:168 > Process: J:\Program Files\ungoogled-chromium-portable\app\chrome.exe
+Wed, 27 Dec 2023 23:03:14 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:169 > Args (config file): 
+Wed, 27 Dec 2023 23:03:14 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:170 > Args (cmd line): 
+Wed, 27 Dec 2023 23:03:14 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:171 > Args (hardcoded): --user-data-dir=J:\Program Files\ungoogled-chromium-portable\data --no-default-browser-check --disable-logging --disable-breakpad --disable-machine-id --disable-encryption-win
+Wed, 27 Dec 2023 23:03:14 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:172 > Working dir: J:\Program Files\ungoogled-chromium-portable\app
+Wed, 27 Dec 2023 23:03:14 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:173 > App path: J:\Program Files\ungoogled-chromium-portable\app
+Wed, 27 Dec 2023 23:03:14 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:174 > Data path: J:\Program Files\ungoogled-chromium-portable\data
+Wed, 27 Dec 2023 23:03:14 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:175 > Previous path: J:\Program Files\ungoogled-chromium-portable
+Wed, 27 Dec 2023 23:03:14 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:181 > Launching Ungoogled Chromium
+Wed, 27 Dec 2023 23:03:14 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:191 > Exec J:\Program Files\ungoogled-chromium-portable\app\chrome.exe --user-data-dir=J:\Program Files\ungoogled-chromium-portable\data --no-default-browser-check --disable-logging --disable-breakpad --disable-machine-id --disable-encryption-win
+[17916:460:1227/230314.709:ERROR:chrome_browser_cloud_management_controller.cc(162)] Cloud management controller initialization aborted as CBCM is not enabled.
+[17916:460:1227/230314.920:ERROR:chrome_web_ui_controller_factory.cc(578)] Requested load of chrome://newtab/ for incorrect profile type.
+[17916:8652:1227/230315.965:ERROR:ev_root_ca_metadata.cc(161)] Failed to decode OID: 0
+[17916:460:1227/230316.367:ERROR:gpu_disk_cache.cc(216)] Failed to create blob cache entry: -2
+[17916:460:1227/230317.427:ERROR:device_event_log_impl.cc(222)] [23:03:17.427] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Wed, 27 Dec 2023 23:03:24 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:212 > Closing Ungoogled Chromium
+Wed, 27 Dec 2023 23:08:51 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:118 > --------
+Wed, 27 Dec 2023 23:08:51 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:119 > Operating System: Windows 10.0.19045
+Wed, 27 Dec 2023 23:08:51 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:120 > Starting Ungoogled Chromium 115.0.5790.131-16 (portapps 3.8.0)...
+Wed, 27 Dec 2023 23:08:51 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:121 > Release date: 2023/07/22 09:46:19
+Wed, 27 Dec 2023 23:08:51 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:122 > Publisher: CrazyMax (https://github.com/portapps/ungoogled-chromium-portable)
+Wed, 27 Dec 2023 23:08:51 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:123 > Root path: J:\Program Files\Based Chromium v20231227
+Wed, 27 Dec 2023 23:08:51 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:127 > Configuration:
+common:
+    disable_log: false
+    args: []
+    env: {}
+    app_path: ""
+app:
+    cleanup: false
+
+Wed, 27 Dec 2023 23:08:51 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:168 > Process: J:\Program Files\Based Chromium v20231227\app\chrome.exe
+Wed, 27 Dec 2023 23:08:51 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:169 > Args (config file): 
+Wed, 27 Dec 2023 23:08:51 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:170 > Args (cmd line): 
+Wed, 27 Dec 2023 23:08:51 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:171 > Args (hardcoded): --user-data-dir=J:\Program Files\Based Chromium v20231227\data --no-default-browser-check --disable-logging --disable-breakpad --disable-machine-id --disable-encryption-win
+Wed, 27 Dec 2023 23:08:51 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:172 > Working dir: J:\Program Files\Based Chromium v20231227\app
+Wed, 27 Dec 2023 23:08:51 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:173 > App path: J:\Program Files\Based Chromium v20231227\app
+Wed, 27 Dec 2023 23:08:51 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:174 > Data path: J:\Program Files\Based Chromium v20231227\data
+Wed, 27 Dec 2023 23:08:51 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:175 > Previous path: J:\Program Files\ungoogled-chromium-portable
+Wed, 27 Dec 2023 23:08:51 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:181 > Launching Ungoogled Chromium
+Wed, 27 Dec 2023 23:08:51 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:191 > Exec J:\Program Files\Based Chromium v20231227\app\chrome.exe --user-data-dir=J:\Program Files\Based Chromium v20231227\data --no-default-browser-check --disable-logging --disable-breakpad --disable-machine-id --disable-encryption-win
+[6304:6116:1227/230852.341:ERROR:chrome_browser_cloud_management_controller.cc(162)] Cloud management controller initialization aborted as CBCM is not enabled.
+[6304:6116:1227/230852.508:ERROR:chrome_web_ui_controller_factory.cc(578)] Requested load of chrome://newtab/ for incorrect profile type.
+[6304:11436:1227/230853.466:ERROR:ev_root_ca_metadata.cc(161)] Failed to decode OID: 0
+[6304:6116:1227/230854.873:ERROR:device_event_log_impl.cc(222)] [23:08:54.873] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+[6304:6116:1227/230857.451:ERROR:CONSOLE(4)] "Uncaught Error: Assertion failed: Could not find value for pdfOcrEnabled", source: chrome://resources/js/assert_ts.js (4)
+[6304:6116:1227/230857.491:ERROR:CONSOLE(1)] "Uncaught TypeError: Cannot read properties of undefined (reading 'push')", source: chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js (1)
+Wed, 27 Dec 2023 23:10:01 CST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.8.0/portapps.go:212 > Closing Ungoogled Chromium

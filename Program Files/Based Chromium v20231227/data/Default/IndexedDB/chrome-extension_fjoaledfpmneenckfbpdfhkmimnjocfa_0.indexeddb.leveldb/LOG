@@ -1,0 +1,6 @@
+2023/12/27-23:08:53.385 4bf8 Reusing MANIFEST J:\Program Files\Based Chromium v20231227\data\Default\IndexedDB\chrome-extension_fjoaledfpmneenckfbpdfhkmimnjocfa_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/27-23:08:53.389 4bf8 Recovering log #9
+2023/12/27-23:08:53.389 4bf8 Reusing old log J:\Program Files\Based Chromium v20231227\data\Default\IndexedDB\chrome-extension_fjoaledfpmneenckfbpdfhkmimnjocfa_0.indexeddb.leveldb/000009.log 
+2023/12/27-23:08:53.390 4bf8 Delete type=2 #8
+2023/12/27-23:08:53.459 2050 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/12/27-23:08:53.485 2050 Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)
